@@ -1,0 +1,29 @@
+{
+  "name": "colinmurphy/studioforty9-canonical",
+  "description": "Adds a canonical tag to the homepage, cms & contact us pages.",
+  "type": "magento-module",
+  "license": "BSD-3-Clause",
+  "homepage": "https://github.com/colinmurphy/studioforty9-canonical",
+  "keywords": ["magento", "seo", "canonical"],
+  "authors": [
+    {
+      "name": "Colin Murphy",
+      "email": "colin@studioforty9.com",
+      "homepage": "http://www.studioforty9.com/",
+      "role": "developer"
+    }
+  ],
+  "source": {
+    "url": "https://github.com/colinmurphy/studioforty9-canonical.git",
+    "type": "git",
+    "reference": "origin/master"
+  },
+  "extra": {
+    "map": [
+      ["app/code/community/Studioforty9", "app/code/community/Studioforty9l"],
+      ["app/etc/modules/Studioforty9_Canonical.xml", "app/etc/modules/Studioforty9_Canonical.xml"],
+      ["app/design/frontend/base/default/template/studioforty9_canonical", "app/design/frontend/base/default/template/studioforty9_canonical"],
+      ["app/design/frontend/base/default/layout/studioforty9_canonical.xml", "app/design/frontend/base/default/layout/studioforty9_canonical.xml"]
+    ]
+  }
+}
