@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Studioforty9_Canonical>
+            <version>0.1.0</version>
+        </Studioforty9_Canonical>
+    </modules>
+    <global>
+        <blocks>
+            <studioforty9_canonical>
+                <class>Studioforty9_Canonical_Block</class>
+            </studioforty9_canonical>
+        </blocks>
+        <helpers>
+            <studioforty9_canonical>
+                <class>Studioforty9_Canonical_Helper</class>
+            </studioforty9_canonical>
+        </helpers>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <studioforty9_canonical>
+                    <file>studioforty9_canonical.xml</file>
+                </studioforty9_canonical>
+            </updates>
+        </layout>
+    </frontend>
+</config>

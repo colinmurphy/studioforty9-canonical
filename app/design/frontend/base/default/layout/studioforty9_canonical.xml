@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<layout>
+    <cms_index_index>
+        <update handle="studioforty9_canonical" />
+    </cms_index_index>
+    <cms_page_view>
+        <update handle="studioforty9_canonical" />
+    </cms_page_view>
+    <cms_page_view>
+        <update handle="studioforty9_canonical" />
+    </cms_page_view>
+    <contacts_index_index>
+        <update handle="studioforty9_canonical" />
+    </contacts_index_index>
+
+    <studioforty9_canonical>
+        <reference name="head">
+            <block type="core/template" name="studioforty9.canonical" template="studioforty9_canonical/canonical.phtml" />
+        </reference>
+    </studioforty9_canonical>
+</layout>
