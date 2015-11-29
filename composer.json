@@ -20,7 +20,7 @@
   },
   "extra": {
     "map": [
-      ["app/code/community/Studioforty9", "app/code/community/Studioforty9l"],
+      ["app/code/community/Studioforty9", "app/code/community/Studioforty9"],
       ["app/etc/modules/Studioforty9_Canonical.xml", "app/etc/modules/Studioforty9_Canonical.xml"],
       ["app/design/frontend/base/default/template/studioforty9_canonical", "app/design/frontend/base/default/template/studioforty9_canonical"],
       ["app/design/frontend/base/default/layout/studioforty9_canonical.xml", "app/design/frontend/base/default/layout/studioforty9_canonical.xml"]
