@@ -1,0 +1,4 @@
+app/code/community/Studioforty9/Canonical                                           app/code/community/Studioforty9/Canonical
+app/etc/modules/Studioforty9_Canonical.xml                                          app/etc/modules/Studioforty9_Canonical.xml
+app/design/frontend/base/default/layout/studioforty9_canonical.xml                  app/design/frontend/base/default/layout/studioforty9_canonical.xml
+app/design/frontend/base/default/template/authorizenet/studioforty9_canonical       app/design/frontend/base/default/template/authorizenet/studioforty9_canonical
