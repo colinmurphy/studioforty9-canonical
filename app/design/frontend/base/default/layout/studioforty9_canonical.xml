@@ -6,9 +6,6 @@
     <cms_page_view>
         <update handle="studioforty9_canonical" />
     </cms_page_view>
-    <cms_page_view>
-        <update handle="studioforty9_canonical" />
-    </cms_page_view>
     <contacts_index_index>
         <update handle="studioforty9_canonical" />
     </contacts_index_index>
